@@ -1,0 +1,4 @@
+#Thu Jun 15 15:07:18 IST 2023
+base.0=/Users/nikunjasodariya/Project/Flutter_project/fetch_data_from_internet/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
